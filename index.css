@@ -1,0 +1,38 @@
+body {
+    background-color: grey;
+}
+
+
+h1 { 
+    text-align: center;
+    font-size: 50px;
+    color: green;
+    background-color: black;
+    padding: 30px;
+    border-radius: 100px;
+    border: 2px solid orange;
+}
+.tulajdonsagok {
+    font-size: 30px;
+    border: 10px solid black;
+    padding: 40px;
+    scale: 80%;
+    border-radius: 10%;
+    
+}
+img { 
+    border: 5px dotted green;
+    scale: 70%;
+}
+
+.tartalom {
+    margin-top: 30px;
+}
+.kijeloles {
+    font-weight: bold;
+    color: skyblue;
+    
+}
+hr { 
+    color: white;
+}
